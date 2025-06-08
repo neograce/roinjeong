@@ -89,6 +89,251 @@
           ]
         }
       ]
+    },
+    {
+      "title": "상카쿠",
+      "grids": [
+        {
+          "panelWidth": 318,
+          "panelHeight": 221,
+          "panelLocationX": 16,
+          "panelLocationY": 16,
+          "extraCheck": true,
+          "chkLocationX": 288,
+          "chkLocationY": 111,
+          "partyName": "상카쿠 (토요일)",
+          "partyNameWidth": 278,
+          "partyNameHeight": 29,
+          "rowHeight": 36,
+          "headerHeight": 36,
+          "dgvWidth": 278,
+          "dgvHeight": 183,
+          "dgvLocationX": 0,
+          "dgvLocationY": 32,
+          "rows": [
+            {
+              "닉네임": "네오",
+              "직업": "소서리스",
+              "골드": true
+            },
+            {
+              "닉네임": "하묘",
+              "직업": "슬레이어",
+              "골드": true
+            },
+            {
+              "닉네임": "카룽",
+              "직업": "워로드",
+              "골드": false
+            },
+            {
+              "닉네임": "아가",
+              "직업": "바드",
+              "골드": false
+            }
+          ]
+        },
+        {
+          "panelWidth": 318,
+          "panelHeight": 221,
+          "panelLocationX": 366,
+          "panelLocationY": 16,
+          "extraCheck": false,
+          "chkLocationX": 288,
+          "chkLocationY": 111,
+          "partyName": "상카쿠 (일요일)",
+          "partyNameWidth": 278,
+          "partyNameHeight": 29,
+          "rowHeight": 36,
+          "headerHeight": 36,
+          "dgvWidth": 278,
+          "dgvHeight": 183,
+          "dgvLocationX": 0,
+          "dgvLocationY": 32,
+          "rows": [
+            {
+              "닉네임": "네오",
+              "직업": "기공사",
+              "골드": true
+            },
+            {
+              "닉네임": "구하묘",
+              "직업": "아르카나",
+              "골드": true
+            },
+            {
+              "닉네임": "강준",
+              "직업": "리퍼",
+              "골드": false
+            },
+            {
+              "닉네임": "매코냥",
+              "직업": "도화가",
+              "골드": false
+            }
+          ]
+        },
+        {
+          "panelWidth": 318,
+          "panelHeight": 221,
+          "panelLocationX": 16,
+          "panelLocationY": 269,
+          "extraCheck": true,
+          "chkLocationX": 288,
+          "chkLocationY": 111,
+          "partyName": "상카쿠 (토요일)",
+          "partyNameWidth": 278,
+          "partyNameHeight": 29,
+          "rowHeight": 36,
+          "headerHeight": 36,
+          "dgvWidth": 278,
+          "dgvHeight": 183,
+          "dgvLocationX": 0,
+          "dgvLocationY": 32,
+          "rows": [
+            {
+              "닉네임": "네오",
+              "직업": "슬레이어",
+              "골드": true
+            },
+            {
+              "닉네임": "구하묘",
+              "직업": "스트라이커",
+              "골드": true
+            },
+            {
+              "닉네임": "카룽",
+              "직업": "기공사",
+              "골드": false
+            },
+            {
+              "닉네임": "아가",
+              "직업": "서폿",
+              "골드": false
+            }
+          ]
+        },
+        {
+          "panelWidth": 318,
+          "panelHeight": 221,
+          "panelLocationX": 366,
+          "panelLocationY": 269,
+          "extraCheck": false,
+          "chkLocationX": 288,
+          "chkLocationY": 111,
+          "partyName": "상카쿠 (일요일)",
+          "partyNameWidth": 278,
+          "partyNameHeight": 29,
+          "rowHeight": 36,
+          "headerHeight": 36,
+          "dgvWidth": 278,
+          "dgvHeight": 183,
+          "dgvLocationX": 0,
+          "dgvLocationY": 32,
+          "rows": [
+            {
+              "닉네임": "네오",
+              "직업": "스카우터",
+              "골드": false
+            },
+            {
+              "닉네임": "하묘",
+              "직업": "데모닉",
+              "골드": true
+            },
+            {
+              "닉네임": "강준",
+              "직업": "건슬링어",
+              "골드": false
+            },
+            {
+              "닉네임": "매코냥",
+              "직업": "도화가",
+              "골드": false
+            }
+          ]
+        },
+        {
+          "panelWidth": 318,
+          "panelHeight": 221,
+          "panelLocationX": 16,
+          "panelLocationY": 522,
+          "extraCheck": false,
+          "chkLocationX": 288,
+          "chkLocationY": 111,
+          "partyName": "상카쿠 (토요일)",
+          "partyNameWidth": 278,
+          "partyNameHeight": 29,
+          "rowHeight": 36,
+          "headerHeight": 36,
+          "dgvWidth": 278,
+          "dgvHeight": 183,
+          "dgvLocationX": 0,
+          "dgvLocationY": 32,
+          "rows": [
+            {
+              "닉네임": "네오",
+              "직업": "브레이커",
+              "골드": false
+            },
+            {
+              "닉네임": "구하묘",
+              "직업": "배틀마스터",
+              "골드": true
+            },
+            {
+              "닉네임": "카룽",
+              "직업": "리퍼",
+              "골드": false
+            },
+            {
+              "닉네임": "아가",
+              "직업": "서폿",
+              "골드": false
+            }
+          ]
+        },
+        {
+          "panelWidth": 318,
+          "panelHeight": 221,
+          "panelLocationX": 366,
+          "panelLocationY": 522,
+          "extraCheck": true,
+          "chkLocationX": 288,
+          "chkLocationY": 111,
+          "partyName": "상카쿠 (일요일)",
+          "partyNameWidth": 278,
+          "partyNameHeight": 29,
+          "rowHeight": 36,
+          "headerHeight": 36,
+          "dgvWidth": 278,
+          "dgvHeight": 183,
+          "dgvLocationX": 0,
+          "dgvLocationY": 32,
+          "rows": [
+            {
+              "닉네임": "네오",
+              "직업": "디스트로이어",
+              "골드": false
+            },
+            {
+              "닉네임": "구하묘",
+              "직업": "기상술사",
+              "골드": true
+            },
+            {
+              "닉네임": "강준",
+              "직업": "브레이커",
+              "골드": false
+            },
+            {
+              "닉네임": "매코냥",
+              "직업": "도화가",
+              "골드": false
+            }
+          ]
+        }
+      ]
     }
   ]
 }
