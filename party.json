@@ -11,6 +11,7 @@
         {
           "panelWidth": 428,
           "panelHeight": 221,
+          "extraCheck": false,
           "rowHeight": 36,
           "headerHeight": 36,
           "rows": [
