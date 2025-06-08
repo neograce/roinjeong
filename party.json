@@ -423,7 +423,7 @@
           "panelHeight": 221,
           "panelLocationX": 16,
           "panelLocationY": 269,
-          "extraCheck": false,
+          "extraCheck": true,
           "chkLocationX": 288,
           "chkLocationY": 111,
           "partyName": "2막 아브렐슈드(하드)",
