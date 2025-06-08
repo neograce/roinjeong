@@ -5,18 +5,18 @@
       "grids": []
     },
     {
-      "title": "탭 2",
-      "partyName": "< 파티이름 >",
+      "title": "awdawd",
+      "partyName": "awdawdawd",
       "grids": [
         {
           "panelWidth": 428,
           "panelHeight": 221,
-          "extraCheck": false,
+          "extraCheck": true,
           "rowHeight": 36,
           "headerHeight": 36,
           "rows": [
             {
-              "닉네임": "",
+              "닉네임": "awdawd",
               "직업": "",
               "골드": false
             },
