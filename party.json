@@ -12,10 +12,10 @@
           "panelHeight": 221,
           "panelLocationX": 16,
           "panelLocationY": 16,
-          "extraCheck": false,
+          "extraCheck": true,
           "chkLocationX": 288,
           "chkLocationY": 111,
-          "partyName": "< 파티이름 >",
+          "partyName": "aaaa",
           "rowHeight": 36,
           "headerHeight": 36,
           "dgvWidth": 278,
@@ -24,9 +24,9 @@
           "dgvLocationY": 32,
           "rows": [
             {
-              "닉네임": "",
-              "직업": "",
-              "골드": false
+              "닉네임": "aaa",
+              "직업": "aaa",
+              "골드": true
             },
             {
               "닉네임": "",
