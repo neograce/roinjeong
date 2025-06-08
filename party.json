@@ -12,7 +12,117 @@
           "panelWidth": 428,
           "panelHeight": 221,
           "extraCheck": false,
-          "rows": []
+          "rowHeight": 36,
+          "headerHeight": 36,
+          "rows": [
+            {
+              "닉네임": "",
+              "직업": "",
+              "골드": false
+            },
+            {
+              "닉네임": "",
+              "직업": "",
+              "골드": false
+            },
+            {
+              "닉네임": "",
+              "직업": "",
+              "골드": false
+            },
+            {
+              "닉네임": "",
+              "직업": "",
+              "골드": false
+            }
+          ]
+        },
+        {
+          "panelWidth": 428,
+          "panelHeight": 221,
+          "extraCheck": false,
+          "rowHeight": 36,
+          "headerHeight": 36,
+          "rows": [
+            {
+              "닉네임": "",
+              "직업": "",
+              "골드": false
+            },
+            {
+              "닉네임": "",
+              "직업": "",
+              "골드": false
+            },
+            {
+              "닉네임": "",
+              "직업": "",
+              "골드": false
+            },
+            {
+              "닉네임": "",
+              "직업": "",
+              "골드": false
+            }
+          ]
+        },
+        {
+          "panelWidth": 428,
+          "panelHeight": 221,
+          "extraCheck": false,
+          "rowHeight": 36,
+          "headerHeight": 36,
+          "rows": [
+            {
+              "닉네임": "",
+              "직업": "",
+              "골드": false
+            },
+            {
+              "닉네임": "",
+              "직업": "",
+              "골드": false
+            },
+            {
+              "닉네임": "",
+              "직업": "",
+              "골드": false
+            },
+            {
+              "닉네임": "",
+              "직업": "",
+              "골드": false
+            }
+          ]
+        },
+        {
+          "panelWidth": 428,
+          "panelHeight": 221,
+          "extraCheck": false,
+          "rowHeight": 36,
+          "headerHeight": 36,
+          "rows": [
+            {
+              "닉네임": "",
+              "직업": "",
+              "골드": false
+            },
+            {
+              "닉네임": "",
+              "직업": "",
+              "골드": false
+            },
+            {
+              "닉네임": "",
+              "직업": "",
+              "골드": false
+            },
+            {
+              "닉네임": "",
+              "직업": "",
+              "골드": false
+            }
+          ]
         }
       ]
     }
