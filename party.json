@@ -88,6 +88,91 @@
           ]
         }
       ]
+    },
+    {
+      "title": "탭 3",
+      "grids": [
+        {
+          "panelWidth": 318,
+          "panelHeight": 221,
+          "panelLocationX": 16,
+          "panelLocationY": 16,
+          "extraCheck": true,
+          "chkLocationX": 288,
+          "chkLocationY": 111,
+          "partyName": "< 파티이awefaawef름 >",
+          "partyNameWidth": 278,
+          "partyNameHeight": 29,
+          "rowHeight": 36,
+          "headerHeight": 36,
+          "dgvWidth": 278,
+          "dgvHeight": 183,
+          "dgvLocationX": 0,
+          "dgvLocationY": 32,
+          "rows": [
+            {
+              "닉네임": "awef",
+              "직업": "awef",
+              "골드": true
+            },
+            {
+              "닉네임": "awef",
+              "직업": "awef",
+              "골드": false
+            },
+            {
+              "닉네임": "awwef",
+              "직업": "awef",
+              "골드": false
+            },
+            {
+              "닉네임": "awefawfeawef",
+              "직업": "awef",
+              "골드": true
+            }
+          ]
+        },
+        {
+          "panelWidth": 318,
+          "panelHeight": 221,
+          "panelLocationX": 366,
+          "panelLocationY": 16,
+          "extraCheck": true,
+          "chkLocationX": 288,
+          "chkLocationY": 111,
+          "partyName": "awefawefawe",
+          "partyNameWidth": 278,
+          "partyNameHeight": 29,
+          "rowHeight": 36,
+          "headerHeight": 36,
+          "dgvWidth": 278,
+          "dgvHeight": 183,
+          "dgvLocationX": 0,
+          "dgvLocationY": 32,
+          "rows": [
+            {
+              "닉네임": "awefawefawef",
+              "직업": "fawefawef",
+              "골드": true
+            },
+            {
+              "닉네임": "efawef",
+              "직업": "awfwa",
+              "골드": true
+            },
+            {
+              "닉네임": "awefawef",
+              "직업": "awefawef",
+              "골드": false
+            },
+            {
+              "닉네임": "awefawef",
+              "직업": "awefawef",
+              "골드": false
+            }
+          ]
+        }
+      ]
     }
   ]
 }
