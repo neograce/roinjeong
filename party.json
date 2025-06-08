@@ -97,7 +97,7 @@
           "panelWidth": 318,
           "panelHeight": 221,
           "panelLocationX": 16,
-          "panelLocationY": -114,
+          "panelLocationY": -216,
           "extraCheck": true,
           "chkLocationX": 288,
           "chkLocationY": 111,
@@ -117,7 +117,7 @@
               "골드": true
             },
             {
-              "닉네임": "하묘",
+              "닉네임": "구하묘",
               "직업": "슬레이어",
               "골드": true
             },
@@ -137,7 +137,7 @@
           "panelWidth": 318,
           "panelHeight": 221,
           "panelLocationX": 366,
-          "panelLocationY": -114,
+          "panelLocationY": -216,
           "extraCheck": false,
           "chkLocationX": 288,
           "chkLocationY": 111,
@@ -177,7 +177,7 @@
           "panelWidth": 318,
           "panelHeight": 221,
           "panelLocationX": 16,
-          "panelLocationY": 139,
+          "panelLocationY": 37,
           "extraCheck": false,
           "chkLocationX": 288,
           "chkLocationY": 111,
@@ -217,7 +217,7 @@
           "panelWidth": 318,
           "panelHeight": 221,
           "panelLocationX": 366,
-          "panelLocationY": 139,
+          "panelLocationY": 37,
           "extraCheck": false,
           "chkLocationX": 288,
           "chkLocationY": 111,
@@ -237,7 +237,7 @@
               "골드": false
             },
             {
-              "닉네임": "하묘",
+              "닉네임": "구하묘",
               "직업": "데모닉",
               "골드": true
             },
@@ -257,7 +257,7 @@
           "panelWidth": 318,
           "panelHeight": 221,
           "panelLocationX": 16,
-          "panelLocationY": 392,
+          "panelLocationY": 290,
           "extraCheck": true,
           "chkLocationX": 288,
           "chkLocationY": 111,
@@ -297,7 +297,7 @@
           "panelWidth": 318,
           "panelHeight": 221,
           "panelLocationX": 366,
-          "panelLocationY": 392,
+          "panelLocationY": 290,
           "extraCheck": true,
           "chkLocationX": 288,
           "chkLocationY": 111,
