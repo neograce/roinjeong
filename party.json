@@ -3,6 +3,41 @@
     {
       "title": "예시 탭",
       "grids": []
+    },
+    {
+      "title": "탭 2",
+      "partyName": "<awdawd 파티이름 >",
+      "grids": [
+        {
+          "panelWidth": 428,
+          "panelHeight": 221,
+          "extraCheck": true,
+          "rowHeight": 36,
+          "headerHeight": 36,
+          "rows": [
+            {
+              "닉네임": "awd",
+              "직업": "awd",
+              "골드": true
+            },
+            {
+              "닉네임": "",
+              "직업": "",
+              "골드": false
+            },
+            {
+              "닉네임": "",
+              "직업": "",
+              "골드": false
+            },
+            {
+              "닉네임": "",
+              "직업": "",
+              "골드": false
+            }
+          ]
+        }
+      ]
     }
   ]
 }
