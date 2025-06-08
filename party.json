@@ -2,89 +2,10 @@
   "tabs": [
     {
       "title": "공지사항",
-      "noticeText": "여기에 공지사항 내용을 입력하세요.",
-      "grids": [
-        {
-          "panelWidth": 318,
-          "panelHeight": 221,
-          "panelLocationX": 16,
-          "panelLocationY": 16,
-          "extraCheck": false,
-          "chkLocationX": 288,
-          "chkLocationY": 111,
-          "partyName": "< 파티이름 >",
-          "partyNameWidth": 278,
-          "partyNameHeight": 29,
-          "rowHeight": 36,
-          "headerHeight": 36,
-          "dgvWidth": 278,
-          "dgvHeight": 183,
-          "dgvLocationX": 0,
-          "dgvLocationY": 32,
-          "rows": [
-            {
-              "닉네임": "",
-              "직업": "",
-              "골드": false
-            },
-            {
-              "닉네임": "",
-              "직업": "",
-              "골드": false
-            },
-            {
-              "닉네임": "",
-              "직업": "",
-              "골드": false
-            },
-            {
-              "닉네임": "",
-              "직업": "",
-              "골드": false
-            }
-          ]
-        },
-        {
-          "panelWidth": 318,
-          "panelHeight": 221,
-          "panelLocationX": 366,
-          "panelLocationY": 16,
-          "extraCheck": false,
-          "chkLocationX": 288,
-          "chkLocationY": 111,
-          "partyName": "< 파티이름 >",
-          "partyNameWidth": 278,
-          "partyNameHeight": 29,
-          "rowHeight": 36,
-          "headerHeight": 36,
-          "dgvWidth": 278,
-          "dgvHeight": 183,
-          "dgvLocationX": 0,
-          "dgvLocationY": 32,
-          "rows": [
-            {
-              "닉네임": "",
-              "직업": "",
-              "골드": false
-            },
-            {
-              "닉네임": "",
-              "직업": "",
-              "골드": false
-            },
-            {
-              "닉네임": "",
-              "직업": "",
-              "골드": false
-            },
-            {
-              "닉네임": "",
-              "직업": "",
-              "골드": false
-            }
-          ]
-        }
-      ]
+      "noticeText": "여기에 공지사항 내용을 입력하세요.ascascascasc",
+      "noticeWidth": 794,
+      "noticeHeight": 263,
+      "grids": []
     }
   ]
 }
