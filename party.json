@@ -15,7 +15,7 @@
           "extraCheck": false,
           "chkLocationX": 288,
           "chkLocationY": 111,
-          "partyName": "< 파티이름 >",
+          "partyName": "awdawdawd",
           "partyNameWidth": 278,
           "partyNameHeight": 29,
           "rowHeight": 36,
@@ -26,24 +26,64 @@
           "dgvLocationY": 32,
           "rows": [
             {
-              "닉네임": "",
-              "직업": "",
+              "닉네임": "12d12d12d",
+              "직업": "12d12d12d",
+              "골드": true
+            },
+            {
+              "닉네임": "12d12d",
+              "직업": "21d12d21",
+              "골드": true
+            },
+            {
+              "닉네임": "d12d",
+              "직업": "1d12",
               "골드": false
             },
             {
-              "닉네임": "",
-              "직업": "",
+              "닉네임": "d21d",
+              "직업": "21d12d",
               "골드": false
+            }
+          ]
+        },
+        {
+          "panelWidth": 318,
+          "panelHeight": 221,
+          "panelLocationX": 366,
+          "panelLocationY": 16,
+          "extraCheck": true,
+          "chkLocationX": 288,
+          "chkLocationY": 111,
+          "partyName": "12d12d12",
+          "partyNameWidth": 278,
+          "partyNameHeight": 29,
+          "rowHeight": 36,
+          "headerHeight": 36,
+          "dgvWidth": 278,
+          "dgvHeight": 183,
+          "dgvLocationX": 0,
+          "dgvLocationY": 32,
+          "rows": [
+            {
+              "닉네임": "d12d12d",
+              "직업": "21d12d",
+              "골드": true
             },
             {
-              "닉네임": "",
-              "직업": "",
-              "골드": false
+              "닉네임": "12d12d1",
+              "직업": "12d12",
+              "골드": true
             },
             {
-              "닉네임": "",
-              "직업": "",
-              "골드": false
+              "닉네임": "d12d12d",
+              "직업": "d12d12",
+              "골드": true
+            },
+            {
+              "닉네임": "2d21d12",
+              "직업": "d12d12d",
+              "골드": true
             }
           ]
         }
