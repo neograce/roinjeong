@@ -36,6 +36,36 @@
               "골드": false
             }
           ]
+        },
+        {
+          "panelWidth": 428,
+          "panelHeight": 221,
+          "extraCheck": false,
+          "partyName": "< 파티이름 >",
+          "rowHeight": 36,
+          "headerHeight": 36,
+          "rows": [
+            {
+              "닉네임": "",
+              "직업": "",
+              "골드": false
+            },
+            {
+              "닉네임": "",
+              "직업": "",
+              "골드": false
+            },
+            {
+              "닉네임": "",
+              "직업": "",
+              "골드": false
+            },
+            {
+              "닉네임": "",
+              "직업": "",
+              "골드": false
+            }
+          ]
         }
       ]
     }
