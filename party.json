@@ -9,6 +9,8 @@
       "partyName": "< 파티이름 >",
       "grids": [
         {
+          "panelWidth": 278,
+          "panelHeight": 221,
           "rows": [
             {
               "닉네임": "",
@@ -33,6 +35,8 @@
           ]
         },
         {
+          "panelWidth": 278,
+          "panelHeight": 221,
           "rows": [
             {
               "닉네임": "",
