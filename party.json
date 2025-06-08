@@ -10,12 +10,54 @@
     },
     {
       "title": "탭 3",
+      "grids": []
+    },
+    {
+      "title": "탭 4",
       "grids": [
         {
           "panelWidth": 428,
           "panelHeight": 221,
           "panelLocationX": 16,
           "panelLocationY": 16,
+          "extraCheck": false,
+          "chkLocationX": 288,
+          "chkLocationY": 111,
+          "partyName": "< 파티이름 >",
+          "rowHeight": 36,
+          "headerHeight": 36,
+          "dgvWidth": 278,
+          "dgvHeight": 183,
+          "dgvLocationX": 0,
+          "dgvLocationY": 32,
+          "rows": [
+            {
+              "닉네임": "",
+              "직업": "",
+              "골드": false
+            },
+            {
+              "닉네임": "",
+              "직업": "",
+              "골드": false
+            },
+            {
+              "닉네임": "",
+              "직업": "",
+              "골드": false
+            },
+            {
+              "닉네임": "",
+              "직업": "",
+              "골드": false
+            }
+          ]
+        },
+        {
+          "panelWidth": 428,
+          "panelHeight": 221,
+          "panelLocationX": 16,
+          "panelLocationY": 269,
           "extraCheck": false,
           "chkLocationX": 288,
           "chkLocationY": 111,
