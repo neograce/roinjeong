@@ -5,17 +5,16 @@
       "noticeText": "여기에 공지사항 내용을 입력하세요.",
       "noticeWidth": 794,
       "noticeHeight": 263,
-      "grids": []
-    },
-    {
-      "title": "탭 2",
+      "noticeLocationX": 0,
+      "noticeLocationY": 0,
+      "noticeFont": "[Font: Name=맑은 고딕, Size=12, Units=3, GdiCharSet=1, GdiVerticalFont=False]",
       "grids": [
         {
           "panelWidth": 318,
           "panelHeight": 221,
           "panelLocationX": 16,
           "panelLocationY": 16,
-          "extraCheck": true,
+          "extraCheck": false,
           "chkLocationX": 288,
           "chkLocationY": 111,
           "partyName": "< 파티이름 >",
@@ -89,8 +88,386 @@
               "골드": false
             }
           ]
+        },
+        {
+          "panelWidth": 318,
+          "panelHeight": 221,
+          "panelLocationX": 16,
+          "panelLocationY": 269,
+          "extraCheck": false,
+          "chkLocationX": 288,
+          "chkLocationY": 111,
+          "partyName": "< 파티이름 >",
+          "partyNameWidth": 278,
+          "partyNameHeight": 29,
+          "rowHeight": 36,
+          "headerHeight": 36,
+          "dgvWidth": 278,
+          "dgvHeight": 183,
+          "dgvLocationX": 0,
+          "dgvLocationY": 32,
+          "rows": [
+            {
+              "닉네임": "",
+              "직업": "",
+              "골드": false
+            },
+            {
+              "닉네임": "",
+              "직업": "",
+              "골드": false
+            },
+            {
+              "닉네임": "",
+              "직업": "",
+              "골드": false
+            },
+            {
+              "닉네임": "",
+              "직업": "",
+              "골드": false
+            }
+          ]
         }
       ]
+    },
+    {
+      "title": "탭 2",
+      "grids": [
+        {
+          "panelWidth": 318,
+          "panelHeight": 221,
+          "panelLocationX": 16,
+          "panelLocationY": 16,
+          "extraCheck": false,
+          "chkLocationX": 288,
+          "chkLocationY": 111,
+          "partyName": "< 파티이름 >",
+          "partyNameWidth": 278,
+          "partyNameHeight": 29,
+          "rowHeight": 36,
+          "headerHeight": 36,
+          "dgvWidth": 278,
+          "dgvHeight": 183,
+          "dgvLocationX": 0,
+          "dgvLocationY": 32,
+          "rows": [
+            {
+              "닉네임": "",
+              "직업": "",
+              "골드": false
+            },
+            {
+              "닉네임": "",
+              "직업": "",
+              "골드": false
+            },
+            {
+              "닉네임": "",
+              "직업": "",
+              "골드": false
+            },
+            {
+              "닉네임": "",
+              "직업": "",
+              "골드": false
+            }
+          ]
+        },
+        {
+          "panelWidth": 318,
+          "panelHeight": 221,
+          "panelLocationX": 366,
+          "panelLocationY": 16,
+          "extraCheck": false,
+          "chkLocationX": 288,
+          "chkLocationY": 111,
+          "partyName": "< 파티이름 >",
+          "partyNameWidth": 278,
+          "partyNameHeight": 29,
+          "rowHeight": 36,
+          "headerHeight": 36,
+          "dgvWidth": 278,
+          "dgvHeight": 183,
+          "dgvLocationX": 0,
+          "dgvLocationY": 32,
+          "rows": [
+            {
+              "닉네임": "",
+              "직업": "",
+              "골드": false
+            },
+            {
+              "닉네임": "",
+              "직업": "",
+              "골드": false
+            },
+            {
+              "닉네임": "",
+              "직업": "",
+              "골드": false
+            },
+            {
+              "닉네임": "",
+              "직업": "",
+              "골드": false
+            }
+          ]
+        },
+        {
+          "panelWidth": 318,
+          "panelHeight": 221,
+          "panelLocationX": 16,
+          "panelLocationY": 269,
+          "extraCheck": false,
+          "chkLocationX": 288,
+          "chkLocationY": 111,
+          "partyName": "< 파티이름 >",
+          "partyNameWidth": 278,
+          "partyNameHeight": 29,
+          "rowHeight": 36,
+          "headerHeight": 36,
+          "dgvWidth": 278,
+          "dgvHeight": 183,
+          "dgvLocationX": 0,
+          "dgvLocationY": 32,
+          "rows": [
+            {
+              "닉네임": "",
+              "직업": "",
+              "골드": false
+            },
+            {
+              "닉네임": "",
+              "직업": "",
+              "골드": false
+            },
+            {
+              "닉네임": "",
+              "직업": "",
+              "골드": false
+            },
+            {
+              "닉네임": "",
+              "직업": "",
+              "골드": false
+            }
+          ]
+        },
+        {
+          "panelWidth": 318,
+          "panelHeight": 221,
+          "panelLocationX": 366,
+          "panelLocationY": 269,
+          "extraCheck": false,
+          "chkLocationX": 288,
+          "chkLocationY": 111,
+          "partyName": "< 파티이름 >",
+          "partyNameWidth": 278,
+          "partyNameHeight": 29,
+          "rowHeight": 36,
+          "headerHeight": 36,
+          "dgvWidth": 278,
+          "dgvHeight": 183,
+          "dgvLocationX": 0,
+          "dgvLocationY": 32,
+          "rows": [
+            {
+              "닉네임": "",
+              "직업": "",
+              "골드": false
+            },
+            {
+              "닉네임": "",
+              "직업": "",
+              "골드": false
+            },
+            {
+              "닉네임": "",
+              "직업": "",
+              "골드": false
+            },
+            {
+              "닉네임": "",
+              "직업": "",
+              "골드": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "탭 3",
+      "grids": [
+        {
+          "panelWidth": 318,
+          "panelHeight": 221,
+          "panelLocationX": 16,
+          "panelLocationY": 16,
+          "extraCheck": false,
+          "chkLocationX": 288,
+          "chkLocationY": 111,
+          "partyName": "< 파티이름 >",
+          "partyNameWidth": 278,
+          "partyNameHeight": 29,
+          "rowHeight": 36,
+          "headerHeight": 36,
+          "dgvWidth": 278,
+          "dgvHeight": 183,
+          "dgvLocationX": 0,
+          "dgvLocationY": 32,
+          "rows": [
+            {
+              "닉네임": "",
+              "직업": "",
+              "골드": false
+            },
+            {
+              "닉네임": "",
+              "직업": "",
+              "골드": false
+            },
+            {
+              "닉네임": "",
+              "직업": "",
+              "골드": false
+            },
+            {
+              "닉네임": "",
+              "직업": "",
+              "골드": false
+            }
+          ]
+        },
+        {
+          "panelWidth": 318,
+          "panelHeight": 221,
+          "panelLocationX": 366,
+          "panelLocationY": 16,
+          "extraCheck": false,
+          "chkLocationX": 288,
+          "chkLocationY": 111,
+          "partyName": "< 파티이름 >",
+          "partyNameWidth": 278,
+          "partyNameHeight": 29,
+          "rowHeight": 36,
+          "headerHeight": 36,
+          "dgvWidth": 278,
+          "dgvHeight": 183,
+          "dgvLocationX": 0,
+          "dgvLocationY": 32,
+          "rows": [
+            {
+              "닉네임": "",
+              "직업": "",
+              "골드": false
+            },
+            {
+              "닉네임": "",
+              "직업": "",
+              "골드": false
+            },
+            {
+              "닉네임": "",
+              "직업": "",
+              "골드": false
+            },
+            {
+              "닉네임": "",
+              "직업": "",
+              "골드": false
+            }
+          ]
+        },
+        {
+          "panelWidth": 318,
+          "panelHeight": 221,
+          "panelLocationX": 16,
+          "panelLocationY": 269,
+          "extraCheck": false,
+          "chkLocationX": 288,
+          "chkLocationY": 111,
+          "partyName": "< 파티이름 >",
+          "partyNameWidth": 278,
+          "partyNameHeight": 29,
+          "rowHeight": 36,
+          "headerHeight": 36,
+          "dgvWidth": 278,
+          "dgvHeight": 183,
+          "dgvLocationX": 0,
+          "dgvLocationY": 32,
+          "rows": [
+            {
+              "닉네임": "",
+              "직업": "",
+              "골드": false
+            },
+            {
+              "닉네임": "",
+              "직업": "",
+              "골드": false
+            },
+            {
+              "닉네임": "",
+              "직업": "",
+              "골드": false
+            },
+            {
+              "닉네임": "",
+              "직업": "",
+              "골드": false
+            }
+          ]
+        },
+        {
+          "panelWidth": 318,
+          "panelHeight": 221,
+          "panelLocationX": 366,
+          "panelLocationY": 269,
+          "extraCheck": false,
+          "chkLocationX": 288,
+          "chkLocationY": 111,
+          "partyName": "< 파티이름 >",
+          "partyNameWidth": 278,
+          "partyNameHeight": 29,
+          "rowHeight": 36,
+          "headerHeight": 36,
+          "dgvWidth": 278,
+          "dgvHeight": 183,
+          "dgvLocationX": 0,
+          "dgvLocationY": 32,
+          "rows": [
+            {
+              "닉네임": "",
+              "직업": "",
+              "골드": false
+            },
+            {
+              "닉네임": "",
+              "직업": "",
+              "골드": false
+            },
+            {
+              "닉네임": "",
+              "직업": "",
+              "골드": false
+            },
+            {
+              "닉네임": "",
+              "직업": "",
+              "골드": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "탭 4",
+      "grids": []
+    },
+    {
+      "title": "탭 5",
+      "grids": []
     }
   ]
 }
