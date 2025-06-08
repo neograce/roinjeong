@@ -417,6 +417,336 @@
               "골드": false
             }
           ]
+        },
+        {
+          "panelWidth": 318,
+          "panelHeight": 221,
+          "panelLocationX": 16,
+          "panelLocationY": 269,
+          "extraCheck": false,
+          "chkLocationX": 288,
+          "chkLocationY": 111,
+          "partyName": "2막 아브렐슈드(하드)",
+          "partyNameWidth": 278,
+          "partyNameHeight": 29,
+          "rowHeight": 36,
+          "headerHeight": 36,
+          "dgvWidth": 278,
+          "dgvHeight": 183,
+          "dgvLocationX": 0,
+          "dgvLocationY": 32,
+          "rows": [
+            {
+              "닉네임": "카룽",
+              "직업": "워로드",
+              "골드": true
+            },
+            {
+              "닉네임": "아가",
+              "직업": "도화가",
+              "골드": true
+            },
+            {
+              "닉네임": "",
+              "직업": "",
+              "골드": false
+            },
+            {
+              "닉네임": "",
+              "직업": "",
+              "골드": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "카룽/강준/매코냥",
+      "grids": [
+        {
+          "panelWidth": 318,
+          "panelHeight": 221,
+          "panelLocationX": 16,
+          "panelLocationY": 16,
+          "extraCheck": false,
+          "chkLocationX": 288,
+          "chkLocationY": 111,
+          "partyName": "노말 에기르",
+          "partyNameWidth": 278,
+          "partyNameHeight": 29,
+          "rowHeight": 36,
+          "headerHeight": 36,
+          "dgvWidth": 278,
+          "dgvHeight": 183,
+          "dgvLocationX": 0,
+          "dgvLocationY": 32,
+          "rows": [
+            {
+              "닉네임": "카룽",
+              "직업": "도화가",
+              "골드": true
+            },
+            {
+              "닉네임": "강준",
+              "직업": "소울이터",
+              "골드": true
+            },
+            {
+              "닉네임": "매코냥",
+              "직업": "도화가",
+              "골드": true
+            },
+            {
+              "닉네임": "",
+              "직업": "",
+              "골드": false
+            }
+          ]
+        },
+        {
+          "panelWidth": 318,
+          "panelHeight": 221,
+          "panelLocationX": 366,
+          "panelLocationY": 16,
+          "extraCheck": false,
+          "chkLocationX": 288,
+          "chkLocationY": 111,
+          "partyName": "노말 에기르",
+          "partyNameWidth": 278,
+          "partyNameHeight": 29,
+          "rowHeight": 36,
+          "headerHeight": 36,
+          "dgvWidth": 278,
+          "dgvHeight": 183,
+          "dgvLocationX": 0,
+          "dgvLocationY": 32,
+          "rows": [
+            {
+              "닉네임": "카룽",
+              "직업": "소서리스",
+              "골드": true
+            },
+            {
+              "닉네임": "강준",
+              "직업": "환수사",
+              "골드": true
+            },
+            {
+              "닉네임": "매코냥",
+              "직업": "도화가",
+              "골드": true
+            },
+            {
+              "닉네임": "",
+              "직업": "",
+              "골드": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "강준/매코냥",
+      "grids": [
+        {
+          "panelWidth": 318,
+          "panelHeight": 221,
+          "panelLocationX": 16,
+          "panelLocationY": 16,
+          "extraCheck": false,
+          "chkLocationX": 288,
+          "chkLocationY": 111,
+          "partyName": "기상술사 보호자 (하하베)",
+          "partyNameWidth": 278,
+          "partyNameHeight": 29,
+          "rowHeight": 36,
+          "headerHeight": 36,
+          "dgvWidth": 278,
+          "dgvHeight": 183,
+          "dgvLocationX": 0,
+          "dgvLocationY": 32,
+          "rows": [
+            {
+              "닉네임": "강준",
+              "직업": "기상술사",
+              "골드": true
+            },
+            {
+              "닉네임": "매코냥",
+              "직업": "도화가",
+              "골드": false
+            },
+            {
+              "닉네임": "",
+              "직업": "",
+              "골드": false
+            },
+            {
+              "닉네임": "",
+              "직업": "",
+              "골드": false
+            }
+          ]
+        },
+        {
+          "panelWidth": 318,
+          "panelHeight": 221,
+          "panelLocationX": 366,
+          "panelLocationY": 16,
+          "extraCheck": false,
+          "chkLocationX": 288,
+          "chkLocationY": 111,
+          "partyName": "창술사 보호자 (하베)",
+          "partyNameWidth": 278,
+          "partyNameHeight": 29,
+          "rowHeight": 36,
+          "headerHeight": 36,
+          "dgvWidth": 278,
+          "dgvHeight": 183,
+          "dgvLocationX": 0,
+          "dgvLocationY": 32,
+          "rows": [
+            {
+              "닉네임": "강준",
+              "직업": "창술사",
+              "골드": true
+            },
+            {
+              "닉네임": "매코냥",
+              "직업": "도화가",
+              "골드": false
+            },
+            {
+              "닉네임": "",
+              "직업": "",
+              "골드": false
+            },
+            {
+              "닉네임": "",
+              "직업": "",
+              "골드": false
+            }
+          ]
+        },
+        {
+          "panelWidth": 318,
+          "panelHeight": 221,
+          "panelLocationX": 16,
+          "panelLocationY": 269,
+          "extraCheck": false,
+          "chkLocationX": 288,
+          "chkLocationY": 111,
+          "partyName": "블레이드 보호자 (베)",
+          "partyNameWidth": 278,
+          "partyNameHeight": 29,
+          "rowHeight": 36,
+          "headerHeight": 36,
+          "dgvWidth": 278,
+          "dgvHeight": 183,
+          "dgvLocationX": 0,
+          "dgvLocationY": 32,
+          "rows": [
+            {
+              "닉네임": "강준",
+              "직업": "블레이드",
+              "골드": true
+            },
+            {
+              "닉네임": "매코냥",
+              "직업": "도화가",
+              "골드": false
+            },
+            {
+              "닉네임": "",
+              "직업": "",
+              "골드": false
+            },
+            {
+              "닉네임": "",
+              "직업": "",
+              "골드": false
+            }
+          ]
+        },
+        {
+          "panelWidth": 318,
+          "panelHeight": 221,
+          "panelLocationX": 366,
+          "panelLocationY": 269,
+          "extraCheck": false,
+          "chkLocationX": 288,
+          "chkLocationY": 111,
+          "partyName": "워로드 보호자(하탑하베)",
+          "partyNameWidth": 278,
+          "partyNameHeight": 29,
+          "rowHeight": 36,
+          "headerHeight": 36,
+          "dgvWidth": 278,
+          "dgvHeight": 183,
+          "dgvLocationX": 0,
+          "dgvLocationY": 32,
+          "rows": [
+            {
+              "닉네임": "강준",
+              "직업": "워로드",
+              "골드": true
+            },
+            {
+              "닉네임": "매코냥",
+              "직업": "도화가",
+              "골드": false
+            },
+            {
+              "닉네임": "",
+              "직업": "",
+              "골드": false
+            },
+            {
+              "닉네임": "",
+              "직업": "",
+              "골드": false
+            }
+          ]
+        },
+        {
+          "panelWidth": 318,
+          "panelHeight": 221,
+          "panelLocationX": 16,
+          "panelLocationY": 522,
+          "extraCheck": false,
+          "chkLocationX": 288,
+          "chkLocationY": 111,
+          "partyName": "배틀마스터 보호자(하베)",
+          "partyNameWidth": 278,
+          "partyNameHeight": 29,
+          "rowHeight": 36,
+          "headerHeight": 36,
+          "dgvWidth": 278,
+          "dgvHeight": 183,
+          "dgvLocationX": 0,
+          "dgvLocationY": 32,
+          "rows": [
+            {
+              "닉네임": "강준",
+              "직업": "배틀마스터",
+              "골드": true
+            },
+            {
+              "닉네임": "매코냥",
+              "직업": "도화가",
+              "골드": false
+            },
+            {
+              "닉네임": "",
+              "직업": "",
+              "골드": false
+            },
+            {
+              "닉네임": "",
+              "직업": "",
+              "골드": false
+            }
+          ]
         }
       ]
     }
