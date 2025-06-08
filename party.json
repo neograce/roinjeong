@@ -2,7 +2,16 @@
   "tabs": [
     {
       "title": "예시 탭",
-      "grids": []
+      "grids": [
+        {
+          "panelWidth": 814,
+          "panelHeight": 527,
+          "panelLocationX": 0,
+          "panelLocationY": 0,
+          "extraCheck": false,
+          "rows": []
+        }
+      ]
     },
     {
       "title": "탭 2",
