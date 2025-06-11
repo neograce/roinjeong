@@ -97,7 +97,7 @@
           "panelWidth": 318,
           "panelHeight": 221,
           "panelLocationX": 16,
-          "panelLocationY": -216,
+          "panelLocationY": 16,
           "extraCheck": false,
           "chkLocationX": 288,
           "chkLocationY": 111,
@@ -137,7 +137,7 @@
           "panelWidth": 318,
           "panelHeight": 221,
           "panelLocationX": 366,
-          "panelLocationY": -216,
+          "panelLocationY": 16,
           "extraCheck": false,
           "chkLocationX": 288,
           "chkLocationY": 111,
@@ -177,7 +177,7 @@
           "panelWidth": 318,
           "panelHeight": 221,
           "panelLocationX": 16,
-          "panelLocationY": 37,
+          "panelLocationY": 269,
           "extraCheck": false,
           "chkLocationX": 288,
           "chkLocationY": 111,
@@ -217,7 +217,7 @@
           "panelWidth": 318,
           "panelHeight": 221,
           "panelLocationX": 366,
-          "panelLocationY": 37,
+          "panelLocationY": 269,
           "extraCheck": false,
           "chkLocationX": 288,
           "chkLocationY": 111,
@@ -257,7 +257,7 @@
           "panelWidth": 318,
           "panelHeight": 221,
           "panelLocationX": 16,
-          "panelLocationY": 290,
+          "panelLocationY": 522,
           "extraCheck": false,
           "chkLocationX": 288,
           "chkLocationY": 111,
@@ -297,7 +297,7 @@
           "panelWidth": 318,
           "panelHeight": 221,
           "panelLocationX": 366,
-          "panelLocationY": 290,
+          "panelLocationY": 522,
           "extraCheck": false,
           "chkLocationX": 288,
           "chkLocationY": 111,
@@ -522,11 +522,6 @@
           "dgvLocationY": 32,
           "rows": [
             {
-              "닉네임": "카룽",
-              "직업": "소서리스",
-              "골드": true
-            },
-            {
               "닉네임": "강준",
               "직업": "환수사",
               "골드": true
@@ -535,6 +530,11 @@
               "닉네임": "매코냥",
               "직업": "도화가",
               "골드": true
+            },
+            {
+              "닉네임": null,
+              "직업": null,
+              "골드": false
             },
             {
               "닉네임": "",
