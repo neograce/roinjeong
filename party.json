@@ -636,46 +636,6 @@
           "extraCheck": false,
           "chkLocationX": 288,
           "chkLocationY": 111,
-          "partyName": "기상술사 보호자 (하베)",
-          "partyNameWidth": 278,
-          "partyNameHeight": 29,
-          "rowHeight": 36,
-          "headerHeight": 36,
-          "dgvWidth": 278,
-          "dgvHeight": 183,
-          "dgvLocationX": 0,
-          "dgvLocationY": 32,
-          "rows": [
-            {
-              "닉네임": "강준",
-              "직업": "기상술사",
-              "골드": true
-            },
-            {
-              "닉네임": "매코냥",
-              "직업": "도화가",
-              "골드": false
-            },
-            {
-              "닉네임": "",
-              "직업": "",
-              "골드": false
-            },
-            {
-              "닉네임": "",
-              "직업": "",
-              "골드": false
-            }
-          ]
-        },
-        {
-          "panelWidth": 318,
-          "panelHeight": 221,
-          "panelLocationX": 366,
-          "panelLocationY": 16,
-          "extraCheck": false,
-          "chkLocationX": 288,
-          "chkLocationY": 111,
           "partyName": "창술사 보호자 (하베)",
           "partyNameWidth": 278,
           "partyNameHeight": 29,
@@ -711,12 +671,12 @@
         {
           "panelWidth": 318,
           "panelHeight": 221,
-          "panelLocationX": 16,
-          "panelLocationY": 269,
+          "panelLocationX": 366,
+          "panelLocationY": 16,
           "extraCheck": false,
           "chkLocationX": 288,
           "chkLocationY": 111,
-          "partyName": "블레이드 보호자 (베)",
+          "partyName": "블레이드 보호자 (하베)",
           "partyNameWidth": 278,
           "partyNameHeight": 29,
           "rowHeight": 36,
@@ -751,7 +711,7 @@
         {
           "panelWidth": 318,
           "panelHeight": 221,
-          "panelLocationX": 366,
+          "panelLocationX": 16,
           "panelLocationY": 269,
           "extraCheck": false,
           "chkLocationX": 288,
@@ -791,8 +751,8 @@
         {
           "panelWidth": 318,
           "panelHeight": 221,
-          "panelLocationX": 16,
-          "panelLocationY": 522,
+          "panelLocationX": 366,
+          "panelLocationY": 269,
           "extraCheck": false,
           "chkLocationX": 288,
           "chkLocationY": 111,
