@@ -169,7 +169,7 @@
             {
               "닉네임": "매코냥",
               "직업": "도화가",
-              "골드": false
+              "골드": true
             }
           ]
         },
@@ -249,7 +249,7 @@
             {
               "닉네임": "매코냥",
               "직업": "도화가",
-              "골드": false
+              "골드": true
             }
           ]
         },
@@ -468,7 +468,7 @@
           "panelHeight": 221,
           "panelLocationX": 16,
           "panelLocationY": 16,
-          "extraCheck": false,
+          "extraCheck": true,
           "chkLocationX": 288,
           "chkLocationY": 111,
           "partyName": "노말 에기르",
@@ -673,7 +673,7 @@
           "panelHeight": 221,
           "panelLocationX": 366,
           "panelLocationY": 16,
-          "extraCheck": false,
+          "extraCheck": true,
           "chkLocationX": 288,
           "chkLocationY": 111,
           "partyName": "블레이드 보호자 (하베)",
@@ -713,7 +713,7 @@
           "panelHeight": 221,
           "panelLocationX": 16,
           "panelLocationY": 269,
-          "extraCheck": false,
+          "extraCheck": true,
           "chkLocationX": 288,
           "chkLocationY": 111,
           "partyName": "워로드 보호자(하탑하베)",
