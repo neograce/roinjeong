@@ -633,7 +633,7 @@
           "panelHeight": 221,
           "panelLocationX": 16,
           "panelLocationY": 16,
-          "extraCheck": false,
+          "extraCheck": true,
           "chkLocationX": 288,
           "chkLocationY": 111,
           "partyName": "창술사 보호자 (하베)",
@@ -654,7 +654,7 @@
             {
               "닉네임": "매코냥",
               "직업": "도화가",
-              "골드": false
+              "골드": true
             },
             {
               "닉네임": "",
@@ -734,7 +734,7 @@
             {
               "닉네임": "매코냥",
               "직업": "도화가",
-              "골드": false
+              "골드": true
             },
             {
               "닉네임": "",
@@ -753,7 +753,7 @@
           "panelHeight": 221,
           "panelLocationX": 366,
           "panelLocationY": 269,
-          "extraCheck": false,
+          "extraCheck": true,
           "chkLocationX": 288,
           "chkLocationY": 111,
           "partyName": "배틀마스터 보호자(하베)",
@@ -774,7 +774,7 @@
             {
               "닉네임": "매코냥",
               "직업": "도화가",
-              "골드": false
+              "골드": true
             },
             {
               "닉네임": "",
