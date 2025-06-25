@@ -97,7 +97,7 @@
           "panelWidth": 318,
           "panelHeight": 221,
           "panelLocationX": 16,
-          "panelLocationY": 16,
+          "panelLocationY": -216,
           "extraCheck": false,
           "chkLocationX": 288,
           "chkLocationY": 111,
@@ -137,7 +137,7 @@
           "panelWidth": 318,
           "panelHeight": 221,
           "panelLocationX": 366,
-          "panelLocationY": 16,
+          "panelLocationY": -216,
           "extraCheck": true,
           "chkLocationX": 288,
           "chkLocationY": 111,
@@ -177,7 +177,7 @@
           "panelWidth": 318,
           "panelHeight": 221,
           "panelLocationX": 16,
-          "panelLocationY": 269,
+          "panelLocationY": 37,
           "extraCheck": false,
           "chkLocationX": 288,
           "chkLocationY": 111,
@@ -217,8 +217,8 @@
           "panelWidth": 318,
           "panelHeight": 221,
           "panelLocationX": 366,
-          "panelLocationY": 269,
-          "extraCheck": true,
+          "panelLocationY": 37,
+          "extraCheck": false,
           "chkLocationX": 288,
           "chkLocationY": 111,
           "partyName": "상카쿠 (목요일)",
@@ -238,8 +238,8 @@
             },
             {
               "닉네임": "구하묘",
-              "직업": "데모닉",
-              "골드": true
+              "직업": "배틀마스터",
+              "골드": false
             },
             {
               "닉네임": "강준",
@@ -257,8 +257,8 @@
           "panelWidth": 318,
           "panelHeight": 221,
           "panelLocationX": 16,
-          "panelLocationY": 522,
-          "extraCheck": true,
+          "panelLocationY": 290,
+          "extraCheck": false,
           "chkLocationX": 288,
           "chkLocationY": 111,
           "partyName": "상카쿠 (금요일)",
@@ -278,7 +278,7 @@
             },
             {
               "닉네임": "구하묘",
-              "직업": "배틀마스터",
+              "직업": "데모닉",
               "골드": true
             },
             {
@@ -297,7 +297,7 @@
           "panelWidth": 318,
           "panelHeight": 221,
           "panelLocationX": 366,
-          "panelLocationY": 522,
+          "panelLocationY": 290,
           "extraCheck": true,
           "chkLocationX": 288,
           "chkLocationY": 111,
