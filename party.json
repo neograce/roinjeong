@@ -97,7 +97,7 @@
           "panelWidth": 318,
           "panelHeight": 221,
           "panelLocationX": 16,
-          "panelLocationY": 16,
+          "panelLocationY": -216,
           "extraCheck": false,
           "chkLocationX": 288,
           "chkLocationY": 111,
@@ -137,7 +137,7 @@
           "panelWidth": 318,
           "panelHeight": 221,
           "panelLocationX": 366,
-          "panelLocationY": 16,
+          "panelLocationY": -216,
           "extraCheck": false,
           "chkLocationX": 288,
           "chkLocationY": 111,
@@ -177,7 +177,7 @@
           "panelWidth": 318,
           "panelHeight": 221,
           "panelLocationX": 16,
-          "panelLocationY": 269,
+          "panelLocationY": 37,
           "extraCheck": false,
           "chkLocationX": 288,
           "chkLocationY": 111,
@@ -217,7 +217,7 @@
           "panelWidth": 318,
           "panelHeight": 221,
           "panelLocationX": 366,
-          "panelLocationY": 269,
+          "panelLocationY": 37,
           "extraCheck": false,
           "chkLocationX": 288,
           "chkLocationY": 111,
@@ -233,7 +233,7 @@
           "rows": [
             {
               "닉네임": "네오",
-              "직업": "브레이커",
+              "직업": "발키리",
               "골드": false
             },
             {
@@ -242,12 +242,12 @@
               "골드": true
             },
             {
-              "닉네임": "카룽",
-              "직업": "리퍼",
+              "닉네임": "강준",
+              "직업": "환수사",
               "골드": false
             },
             {
-              "닉네임": "아가",
+              "닉네임": "매코냥",
               "직업": "서폿",
               "골드": false
             }
@@ -257,7 +257,7 @@
           "panelWidth": 318,
           "panelHeight": 221,
           "panelLocationX": 16,
-          "panelLocationY": 522,
+          "panelLocationY": 290,
           "extraCheck": false,
           "chkLocationX": 288,
           "chkLocationY": 111,
@@ -273,7 +273,7 @@
           "rows": [
             {
               "닉네임": "네오",
-              "직업": "디스트로이어",
+              "직업": "브레이커",
               "골드": false
             },
             {
